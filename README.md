@@ -1,47 +1,62 @@
-# Ian Keilman
+# Ian Keilman  
+**Data Analyst | Machine Learning Enthusiast | Statistical Modeling**  
 [LinkedIn](https://linkedin.com/in/ian-keilman) | [GitHub](https://github.com/IanKeilman)
 
 ---
 
 ## Technical Skills
-- **Languages:** R, SAS, SQL, Python, Java  
-- **Concepts/Methodologies:** Object-Oriented Programming, Machine Learning, Linear/Logistic Regression, ANOVA Analysis, Data Simulation
+- **Languages:** Python, R, SQL, Java, SAS  
+- **Tools/Libraries:** pandas, numpy, scikit-learn, OpenCV, Tidyverse, YOLO, Git, Jupyter, VS Code, Google Colab  
+- **Concepts/Methodologies:** Machine Learning, Computer Vision, Predictive Modeling, ANOVA, Simulation, Object-Oriented Programming, Feature Engineering, A/B Testing, Data Wrangling, SQL Databases
 
 ---
 
 ## Professional Experience
 
-### Data Analysis Intern
-**Morning Light Strategy, Chicago IL** | September 2024 – Current
+### Data Analysis Intern  
+**Morning Light Strategy, Chicago IL** | September 2024 – Present
 
-- Work closely with senior partners to analyze complex datasets and develop comprehensive, data-driven insights for client presentations. Utilize Tableau to create impactful data visualizations that enhance decision-making.
-- Clean response data to filter out bots and prepare data for machine learning models by modifying datatypes in Python/R, improving data quality for predictive analysis.
-- Conduct driver analysis to pinpoint key factors influencing target dependent variables, enhancing strategic decision-making.
-- **Key Focus:** Applied statistical techniques and machine learning processes to provide data-driven solutions for clients.
+- Collaborated with senior partners to analyze large-scale datasets and deliver actionable insights for client-facing presentations.
+- Cleaned and preprocessed response data in Python and R, enhancing the accuracy and reliability of machine learning outputs.
+- Conducted statistical driver analysis to identify key performance indicators, improving strategic decision-making frameworks.
+- Applied machine learning techniques to optimize client recommendations, including logistic regression and random forests (Python, scikit-learn).
+- **Technologies Used:** Python, R, pandas, scikit-learn, SQL, Tableau
 
 ---
 
 ## Project Experience
 
-### E-Sports Data Web Scraper and Modeling (Python/R)
+### Loyola Thermal Imaging Consulting Project (SQL, Python, Google API)  
+**January – April 2024**
+
+- Partnered with Loyola’s Statistics & Data Science department to analyze thermal imagery and detect insulation issues on campus buildings.
+- Developed an automated image logging and storage pipeline using SQL and Google Drive API.
+- Engineered an image processing algorithm to clean the images and prepare them for data analysis.
+- **Key Skills:** Collaboration, SQL Database Construction, Data Pipeline Automation
+
+### E-Sports Data Web Scraper and Predictive Modeling (Python, R)  
 **August 2024**
 
-- Developed a web scraping script to gather updated match data using Python and implemented a data pipeline to prepare the data for predictive analysis.
-- Engineered features using existing data to improve model accuracy for binary classification by 10%.
-- **Key Focus:** Gathered and transformed raw match data to improve the accuracy of match outcome predictions, implementing feature engineering techniques that led to a significant increase in model accuracy and enhanced decision-making.
+- Built a computer vision pipeline with OpenCV and custom YOLO models to perform automated frame-by-frame game analysis.
+- Developed a web scraping system in Python to collect real-time match data and established a data pipeline for predictive modeling.
+- Improved classification accuracy by 10% using engineered features and ensemble learning methods (random forests).
+- **Key Skills:** Web Scraping, Data Pipeline Automation, Model Evaluation, Computer Vision
 
-### Tic-Tac-Toe Simulation (Python)
+### Tic-Tac-Toe Monte Carlo Simulation (Python)  
 **November 2024**
 
-- Used Monte Carlo simulation to generate datasets of randomly played Tic-Tac-Toe games, then trained a random forest model to see how often a bot would play a perfect game at various training set sizes.
-- Observed that as the dataset size increased, perfect-game rate rose in a pattern similar to a “with replacement” sampling curve.
-- **Key Focus:** Demonstrated strong data simulation skills and the ability to derive practical solutions.
+- Designed a Monte Carlo simulator to create a training dataset of thousands of Tic-Tac-Toe games with randomized play.
+- Trained and validated a random forest model to evaluate AI performance, showing a strong correlation between dataset size and game perfection.
+- Visualized model learning trends and drew parallels to statistical sampling techniques.
+- **Key Skills:** Simulation, Model Training, Data Visualization, Random Forests
 
 ---
 
 ## Education
 
 **Loyola University Chicago – Chicago, IL**  
-**B.S. in Statistics | Expected 2025**
+**B.S. in Statistics, Minor in Computer Science | May 2025**
 
-- **Relevant Coursework:** Predictive Analytics, Linear Algebra, Applied Regression Analysis, Categorical Data Analysis, Probability and Statistics II, Statistical Design and Analysis, Data Structures, Algorithms
+- **Relevant Coursework:** Predictive Analytics, Linear Algebra, Applied Regression Analysis, Categorical Data Analysis, Statistical Design, Data Structures, Algorithms, Statistical Consulting, Mathematical probablity
+
+---
